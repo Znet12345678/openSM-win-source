@@ -1,3 +1,4 @@
+# Please Fix this yourself. It does not work
 # openSM
 openSM is a new project of mine in which I aim to make an open source social media platform written in C. I aim to make it so that you can upload files,direct message someone, write to your story and much much more. As of now the things that I have done are as follows:
 Client and server can communicate well.
@@ -72,3 +73,7 @@ reboot your computer. If that doesn't work check your firewall.
 Again the client will be very verbose and will dump some of the bytes sent to it. All you really have to worry about is the authentication
 If all goes well you should see at the bottom "Successfully logged in"
 From that shell you should be able to run the command mentioned previously.
+=======
+# openSM-win-source
+An attempt to port openSM to windows. If you know about windows programming please contact me or try and fix these yourself
+
